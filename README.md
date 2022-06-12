@@ -1,2 +1,2 @@
-# Vinitha-
+# Vinitha
 c programming
